@@ -1,4 +1,4 @@
-# Humari Dukaan - E-Commerce Website
+# E-Commerce Shop
 
 ![](demo.gif)
 Humari Dukaan is a fully functional e-commerce website built using React.js, Redux, React Router, Bootstrap, and Bootstrap Icons. The project aims to provide users with a seamless shopping experience and incorporates various features such as image carousel, scroll animations, search functionality, category-wise shopping, and a robust checkout system.
@@ -16,7 +16,7 @@ Humari Dukaan is a fully functional e-commerce website built using React.js, Red
 
 ### 1. Image Carousel
 
-Humari Dukaan showcases a visually appealing image carousel on the homepage, allowing users to view featured products or promotions in an interactive and engaging manner.
+Shop showcases a visually appealing image carousel on the homepage, allowing users to view featured products or promotions in an interactive and engaging manner.
 
 ### 2. Scroll Animations
 
@@ -28,7 +28,7 @@ Users can easily search for products using the integrated search functionality. 
 
 ### 4. Category-Wise Shopping
 
-Humari Dukaan organizes products into different categories, making it convenient for users to browse and shop according to their preferences. Each category presents a curated selection of products relevant to the user's interests.
+Shop organizes products into different categories, making it convenient for users to browse and shop according to their preferences. Each category presents a curated selection of products relevant to the user's interests.
 
 ### 5. Data Flow to Checkout System
 
@@ -36,18 +36,18 @@ The project implements a robust data flow from product selection to the checkout
 
 ## Installation
 
-To run the Humari Dukaan project locally, follow these steps:
+To run the E-commerce-shop project locally, follow these steps:
 
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/humari-dukaan.git
+git clone https://github.com/shreyawani126/E-commerce-shop.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd humari-dukaan
+cd E-commerce-shop
 ```
 
 3. Install the dependencies using npm:
@@ -58,7 +58,7 @@ npm install
 
 ## Usage
 
-To start the development server and view the Humari Dukaan website, run the following command:
+To start the development server and view the website, run the following command:
 
 ```bash
 npm start
@@ -68,7 +68,7 @@ This will launch the application on a local development server, typically at [ht
 
 ## Technologies Used
 
-The Humari Dukaan project utilizes the following technologies and libraries:
+The E-commerce-shop project utilizes the following technologies and libraries:
 
 - React.js: A JavaScript library for building user interfaces.
 - Redux: A predictable state container for managing application state.
