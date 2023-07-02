@@ -1,0 +1,38 @@
+a{
+    text-decoration: none;
+    color:inherit;
+}
+
+.active{
+    font-weight: bold;
+}
+
+
+
+.breadcrumb li{
+    color:#198754;
+}
+.active ~ li{
+    color:white
+}
+*{
+    --bs-breadcrumb-divider: '------';
+    --bs-breadcrumb-item-active-color:#0D55AB;
+}
+
+form input,form select{
+    height: 50px;
+}
+
+.search:focus{
+    outline:none
+}
+
+.product-outer{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    align-content: space-evenly;
+    justify-content: space-evenly;
+}
+
